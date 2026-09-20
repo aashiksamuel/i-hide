@@ -3,7 +3,7 @@
 
 ![Alt text](/i-hide.jpg?raw=true)
 
-A command-line utilty which perfroms steganography on BMP images or on MP3 files.
+A command-line utilty which performs steganography in BMP images or in MP3 files.
 
 
 How To Use :
