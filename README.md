@@ -1,6 +1,8 @@
 # i-hide
 #   "Invisible when visible"
 
+![Alt text](/i-hide.jpg?raw=true)
+
 A command-line utilty which perfroms steganography on BMP images or on MP3 files.
 
 
